@@ -1,0 +1,13 @@
+# Secrets
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Go build output (`go build` in go/ names the binary after the module)
+go/coding_agent_in_go
+
+# macOS
+.DS_Store
